@@ -1,0 +1,21 @@
+{
+  "name": "owtf-torando-react-demo",
+  "version": "1.0.0",
+  "description": "This is demo to show integration of react with present tornado of owtf",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
